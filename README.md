@@ -15,5 +15,7 @@ Enterprise is a theme for Typora inspired by Big Blue's OS/400 manuals and based
 ## Credits
 
 IBM - Fonts
+
 blinkfox - Vue Theme
+
 Typora - Typora

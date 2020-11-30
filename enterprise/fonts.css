@@ -1,0 +1,13 @@
+@font-face {
+	font-family: 'IBM Bodoni BE Regular';
+	font-style: normal;
+	font-weight: normal;
+	src: local('IBM'), local('IBM-BodoniBERegular'), url('./IBM-BodoniBERegular.ttf') format('ttf');
+}
+
+@font-face {
+	font-family: 'IBM BookMaster';
+	font-style: normal;
+	font-weight: normal;
+	src: local('BookMaster'), url('./BookMaster.ttf') format('ttf');
+}
