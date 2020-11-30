@@ -58,7 +58,7 @@ Code blocks represent information from a program's source listing or a terminal 
 
 ```
 						Main Storage Dump Manager
-														S//N 10-00XX
+															S//N 10-00XX
 The system has successfully failed.  Please do not report the following 
 information to https://github.com/jack23247/typora-enterprise-theme/issues/.
 
@@ -120,4 +120,3 @@ And here's in-line math: $f(x,y)=3x+2y.$
 **DANGER**
 
 > **In-line math must be enabled in Typora for `$in-line \LaTeX$` to work.**
-

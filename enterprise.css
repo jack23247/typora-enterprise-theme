@@ -129,7 +129,7 @@ h6 code {
 
 h2 a,
 h3 a {
-    color: #34495e;
+    color: #2c2c2c;
 }
 
 h1 {
@@ -271,7 +271,7 @@ ol:last-child {
 }
 
 blockquote {
-    background: #f9f9f9;
+    background: transparent;
 	padding: 1em;
 	border: 1.5px solid #2c2c2c;
 }
@@ -338,7 +338,7 @@ table tr td:last-child {
 #write .md-fences {
     -webkit-font-smoothing: initial;
     line-height: 1.43rem;
-    background-color: #f9f9f9 !important;
+    background-color: transparent !important;
     font-family: var(--font-monospace);
     word-wrap: normal;
 	margin-top: 2em !important;
@@ -366,13 +366,13 @@ tt {
 }
 
 #write .md-footnote {
-    background-color: #f9f9f9;
+    background-color: transparent;
     color: #2c2c2c;
 }
 
 /* heighlight. */
 #write mark {
-    background-color: #f9f9f9;
+    background-color: transparent;
     border-radius: 2px;
     padding: 2px 4px;
     margin: 0 2px;
